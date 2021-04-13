@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivekpaul-exe
-- 👀 I’m interested in making progrssive web apps and softwwares.
+- 👀 I’m interested in making progrssive web apps and softwares.
 - 🌱 I’m currently learning Dart based framework flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vivekpaul405@gmail.com
